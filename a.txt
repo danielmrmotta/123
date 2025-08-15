@@ -1,2 +1,6 @@
 esse vai
+<<<<<<< HEAD
 git stat
+=======
+testando atualização
+>>>>>>> ef736b296935f5b8a2ed49ada24f43866a265620
